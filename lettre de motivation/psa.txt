@@ -1,0 +1,25 @@
+J'ai effectué plusieurs séjours en Angleterre qui, bout à bout, représentent 1 mois et demi
+
+
+Conception de cartes électroniques et programmation d'automates industriels chez A2V mécatronique.
+
+Développement de cartes électroniques et de code associé sur des microcontrôleurs microchip en C pour l'association de robotique de l'ESME Sudria avec notamment la réalisation d'un asservissement polaire pour un robot autonome.
+
+Président de cette association de robotique pendant 3 ans.
+
+
+
+Conception de cartes de commandes
+Automatique linéaire et non linéaire, automatique échantillonnée, loi de commandes (adaptative, robuste, prédictive)
+
+Programmation en C, C++, Assembleur, VHDL, java, ..
+
+Connaissances sur les logiciels suivants : MS office, Matalab Simulink, Altium Designer, Visual Studio, MPLAB X, Solidworks, ...
+
+
+Je suis passionné de robotique et d'électronique, j'y passe le plus clair de mon temps.
+Et quand il m'en reste je m'adonne à la photographie (notamment la macrophotographie).
+
+
+J'ai pour idéal de réaliser un stage dans un gros groupe comme le votre puis d'y effectuer au moins une partie de ma carrière. Une offre qui me correspond ne peut donc qu'être un tremplin vers cet objectif.
+Qui plus est le domaine de l'automobile est un domaine d'avenir toujours à la pointe de l'innovation.
